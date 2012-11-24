@@ -1,0 +1,7 @@
+## Interface: 11100
+## Title: BA4Dummies
+## Version: 0.03
+## Author: Me
+## Notes: A helpfull assistant for the vaelastraz the corrupt fight
+## SavedVariables: BA4Dummiesbigchannel
+BA4Dummies.xml
